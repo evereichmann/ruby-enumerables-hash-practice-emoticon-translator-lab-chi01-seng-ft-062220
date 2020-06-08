@@ -38,6 +38,7 @@ def get_english_meaning(file, emoticon)
     end
     if emoticon
     emoticon
+    binding.pry
      else  
     "Sorry, that emoticon was not found"
   end
